@@ -6,7 +6,7 @@ Insertion Sort Gösterimi
 
 Big-O Gösterimi
 n+(n-1)+(n-2)....+1 => n(n+1)/2 
-
+O(n^2)
 
 
 Time Complexity
